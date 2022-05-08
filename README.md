@@ -3,13 +3,11 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebenezerj-2210/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_._._ebenezer_._._/)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ebenezer.j.2210/) [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jebi.tech/)
-
-<hr />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebi10sa22&count_private=true&show_icons=true&theme=radical" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebi10sa22&layout=compact&theme=radical" />
-<hr />
+[![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/Ebenezer___J)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jebi.tech/)
 
 # 🚀 About Me
-I'm a React stack developer...
+I'm a React developer...
 
 
 # 🛠 Skills
