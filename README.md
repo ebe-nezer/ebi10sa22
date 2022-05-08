@@ -25,5 +25,9 @@ I'm a React developer...
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/> <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 
 <hr />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebi10sa22&count_private=true&show_icons=true&theme=radical" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebi10sa22&layout=compact&theme=radical" />
+<p align="center">
+<a href="https://github.com/Omkaragrawal">
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ebi10sa22&count_private=true&show_icons=true&theme=radical" /> 
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebi10sa22&layout=compact&theme=radical" />
+</a>
+</p>
