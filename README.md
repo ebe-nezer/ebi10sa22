@@ -7,6 +7,7 @@
 <hr />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ebi10sa22&count_private=true&show_icons=true&theme=radical" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebi10sa22&layout=compact&theme=radical" />
 <hr />
+
 # 🚀 About Me
 I'm a React stack developer...
 
