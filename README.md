@@ -26,7 +26,7 @@ I'm a React developer...
 <hr />
 <p align="center">
 <a href="https://github.com/ebi10sa22">
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ebi10sa22&count_private=true&show_icons=true&theme=radical" /> 
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ebi10sa22&count_private=true&show_icons=true&theme=radical" /> &nbsp;
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebi10sa22&layout=compact&theme=radical" />
 </a>
 </p>
