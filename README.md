@@ -5,12 +5,17 @@ I'm a software developer with a passion for building web applications. I'm exper
 
 ## 🔭 Current Organization I'm working in...
 
-[HashHackCode](https://hashhackcode.com/) - Working as Full Stack Javascript developer
+Currently Working as a Freelancing Full-Stack Developer
 
 ## 🌱 I'm currently learning...
 
 - Docker
 - GraphQL
+
+## Previous Work Experience
+
+- [HashHackCode](https://hashhackcode.com/)
+    - Worked as MERN Stack Developer developing Web Applications for learning purposes.
 
 ## 👯 I'm looking to collaborate on...
 
@@ -31,14 +36,8 @@ I'm a software developer with a passion for building web applications. I'm exper
 
 ## 📝 Check out my website...
 
-[Portfolio](https://ebenezer.com) - A brief description of your blog and the topics you write about.
+[Portfolio](https://github.com/ebe-nezer) - Currently in development
 
 ## ⚡ Fun fact...
 
-- I'm a software developer who don't drink coffee 😬
-
-## 📈 My GitHub Stats...
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ebi10sa22&show_icons=true&theme=dark)](https://github.com/ebi10sa22)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ebi10sa22&show_icons=true&theme=dark&langs_count=10)](https://github.com/ebi10sa22/)
+- I'm a software developer who doesn't drink coffee 😬
