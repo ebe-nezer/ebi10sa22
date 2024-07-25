@@ -16,7 +16,7 @@ Hehe. Start your journey. 😁😁
 
 Hi. I'm a MERN Stack developer who didn't stop with MERN and learned many new things, exploring whatever I could get myself with. I have 4+ years of experience in programming, with MERN taking first place with 2.5 years. For the rest of the years, I got a job to get my own coffee. What kind of job? Of course, as a MERN Stack developer. Click here to see my work experience. I've successfully graduated with an M.Sc. in Computer Science from DB Jain College. I also had a wonderful college life (Credits go to the Coronavirus). And I think that's all about me. For more info, scroll down more to know more or Click here to contact me.
 
-<img src="https://raw.githubusercontent.com/ebe-nezer/ebi10sa22/master/assets/banner.svg" />
+[<img src="https://raw.githubusercontent.com/ebe-nezer/ebe-nezer/392283f4a3eda7187cb0ef07325bf7fa6b20cd35/assets/banner.svg" alt="EBENEZER'S BANNER" />](https://github.com/ebe-nezer)
 
 <hr />
 
